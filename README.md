@@ -1,4 +1,4 @@
-##  Desafio da Caculadora binaria
+##  Desafio da Calculadora binaria
 
 ## 
 
