@@ -1,0 +1,13 @@
+DIVISAO = 1
+MULTIPLICACAO = 2
+SOMA = 3
+SUBITRACAO = 4
+MODULO = 5
+C_OPERACAO = [
+    (DIVISAO, '/'),
+    (MULTIPLICACAO, '*'),
+    (SOMA, '+'),
+    (SUBITRACAO, '-'),
+    (MODULO,'%')
+
+]
