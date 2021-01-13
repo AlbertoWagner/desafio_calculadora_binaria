@@ -6,7 +6,7 @@
 [![CI](https://github.com/AlbertoWagner/desafio-backend/workflows/CI/badge.svg?event=push)](https://github.com/AlbertoWagner/desafio_calculadora_binaria.git)
 
 
-###Tech Stack:
+## Tech Stack
 
 
 * **Python**
